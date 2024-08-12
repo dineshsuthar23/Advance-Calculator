@@ -6,7 +6,7 @@ function calculate() {
 
         document.getElementById('ans').value = ans;
     }
-
+        
     // elif statement is used for 100% ratio
 
     // else if (value.includes("%")) {
