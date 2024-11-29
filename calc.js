@@ -3,7 +3,6 @@ function calculate() {
     if (value.includes("!")) {
         let Number = parseFloat(value.substring(0, value.indexOf('!')));
         let ans = fab(Number);
-
         document.getElementById('ans').value = ans;
     }
         
